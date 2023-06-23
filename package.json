@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/emgreeff@datadash.cloud.plainjs-lj7rjxan",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve AMIzvEyHPxiSMTWtDWmw --open"
+  }
+}
